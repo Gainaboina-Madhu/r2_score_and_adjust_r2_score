@@ -13,4 +13,4 @@
 # Adjusted R2 Score
 
 **Definition:**
-- 
+-  In machine learning, used for 
